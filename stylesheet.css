@@ -1,0 +1,93 @@
+
+body { 
+background-image: url(vilavi.jpg);
+background-repeat:no-repeat;
+background-position: center;
+background-attachment:fixed;
+background-size: 1000px 400px;
+}
+body{
+font-family:'HelveticaNeue-Light',
+'Helvetica Neue Light', 'Helvetica Neue', 
+Helvetica, Arial, 'Lucida Grande', sans-serif;
+line-height:1.6;
+font-size: 12px;
+letter-spacing: 10x;
+background-color: grey;
+} 
+ 
+ 
+ 
+ 
+ body nav ul li {
+   display: inline; 
+   font-size:1.5em; 
+   font-family: 'Courier New', monospace;
+   background-color: rgb(240, 240, 245);
+   padding: 0px 10px; 
+   margin: 0px;
+}
+
+
+
+
+h1{ 
+   font-size: 3em; 
+   font-family: 'Courier New', monospace;
+   background-color: white;
+   padding-left: 100px; 
+   margin: 0px;
+   background-color: grey;
+}
+
+h4{
+  background-color: grey;
+}
+
+h2{
+   display: list-item;
+}
+
+ body nav ul li {
+   display: inline; 
+   font-size: 1em; 
+   font-family: 'Courier New', monospace;
+   background-color: rgb(49, 78, 127);
+   padding: 0px 10px; 
+   margin: 0px;
+}
+
+ body ul li a {
+   text-decoration: none; 
+   color: white;
+}
+
+
+ nav ul li a:hover {
+   color: black;
+}
+
+p{
+   font-family: serif;
+   font-size: 14px;
+   font-color:black;
+   border-color: black;
+   border-width: 2px;
+   border-style: solid;
+   width: 1000px;
+   align: center;
+   
+}
+
+/*form formatting*/
+
+form{
+	margin-top: 2em;
+	text-align: left;
+	margin-right: 80px;
+	}
+	
+fieldset#info {
+background-color: rgb(225, 225, 234);
+border: 1px solid black;
+
